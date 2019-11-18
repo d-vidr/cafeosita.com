@@ -1,3 +1,8 @@
+---
+layout: post
+title: Cafe Osita
+---
+
 # Cafe Osita
 
 7349 35th Ave SW
